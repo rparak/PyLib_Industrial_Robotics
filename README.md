@@ -3,7 +3,7 @@
 ## Transformation Library
 
 <p align="center">
-<img src=https://github.com/rparak/PyLib_Industrial_Robotics//blob/main/images/transformation.png width="700" height="425">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/transformation.png width="700" height="425">
 </p>
 
 An open source library for transformation functions useful for robotic applications (forward/inverse kinematics, path planning, etc.) The library provides access to various classes for working with three-dimensional vectors (Vector3_Cls), euler angles (Euler_Angle_Cls), quaternions (Quaternion_Cls), and homogeneous transformation matrices (Homogeneous_Transformation_Matrix_Cls). 
