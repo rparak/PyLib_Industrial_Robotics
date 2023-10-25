@@ -2,6 +2,10 @@
 
 ## Transformation Library
 
+<p align="center">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics//blob/main/images/transformation.png width="700" height="425">
+</p>
+
 An open source library for transformation functions useful for robotic applications (forward/inverse kinematics, path planning, etc.) The library provides access to various classes for working with three-dimensional vectors (Vector3_Cls), euler angles (Euler_Angle_Cls), quaternions (Quaternion_Cls), and homogeneous transformation matrices (Homogeneous_Transformation_Matrix_Cls). 
 
 The library can be used within the Robot Operating System (ROS), Blender, PyBullet, Nvidia Isaac, or any program that allows Python as a programming language.
@@ -11,6 +15,10 @@ The library can be used within the Robot Operating System (ROS), Blender, PyBull
 | GitHub                | https://github.com/rparak/Transformation/                                             |
 
 ## Parametric Curves
+
+<p align="center">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/parametric_curves.png width="800" height="350">
+</p>
 
 An open-source library of parametric curves interpolation (Bézier, B-Spline) useful for robotics applications, such as path planning, etc. The library provides access to specific classes for working with two types of parametric curves: Bézier curves and B-Spline curves. The specific classes focus on the problem of interpolating both two-dimensional and three-dimensional curves from input control points.
 
@@ -24,6 +32,10 @@ The library can be used within the Robot Operating System (ROS), Blender, PyBull
 
 ## Collision Detection
 
+<p align="center">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/collision_detection.png width="800" height="350">
+</p>
+
 An open-source library for collision detection of bounding boxes (AABB, OBB), useful for robotic applications such as path planning, inverse kinematics, and so on. The library provides access to specific classes for working with both types of bounding boxes: Axis-aligned Bounding Boxes (AABB) and Oriented Bounding Boxes (OBB). The specific classes focus on solving problems related to shape intersections, point tests, and last but not least, line intersections. Each of these problems is solved primarily in 3D space.
 
 The library can be used within the Robot Operating System (ROS), Blender, PyBullet, Nvidia Isaac, or any program that allows Python as a programming language.
@@ -33,6 +45,10 @@ The library can be used within the Robot Operating System (ROS), Blender, PyBull
 | GitHub                | https://github.com/rparak/Collision_Detection                                         |
 
 ## Trajectory Generation
+
+<p align="center">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/Trajectory/trajectory.png width="600" height="350">
+</p>
 
 An open-source library for generating trajectories using two different methods (trapezoidal, polynomial). The library provides access to various classes for working with multi-axis (Trapezoidal_Profile_Cls, Polynomial_Profile_Cls) trajectories as well as multi-segment (Multi_Segment_Cls) trajectories.
 
