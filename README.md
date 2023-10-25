@@ -47,7 +47,7 @@ The library can be used within the Robot Operating System (ROS), Blender, PyBull
 ## Trajectory Generation
 
 <p align="center">
-<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/Trajectory/trajectory.png width="600" height="350">
+<img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/trajectory.png width="600" height="350">
 </p>
 
 An open-source library for generating trajectories using two different methods (trapezoidal, polynomial). The library provides access to various classes for working with multi-axis (Trapezoidal_Profile_Cls, Polynomial_Profile_Cls) trajectories as well as multi-segment (Multi_Segment_Cls) trajectories.
