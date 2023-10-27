@@ -20,7 +20,7 @@ The library can be used within the Robot Operating System (ROS), Blender, PyBull
 <img src=https://github.com/rparak/PyLib_Industrial_Robotics/blob/main/images/parametric_curves.png width="800" height="350">
 </p>
 
-An open-source library of parametric curves interpolation (Bézier, B-Spline) useful for robotics applications, such as path planning, etc. The library provides access to specific classes for working with two types of parametric curves: Bézier curves and B-Spline curves. The specific classes focus on the problem of interpolating both two-dimensional and three-dimensional curves from input control points.
+An open-source library for interpolation functions of parametric curves (Bézier, B-Spline) useful for robotics applications, such as path planning, etc. The library provides access to specific classes for working with two types of parametric curves: Bézier curves and B-Spline curves. The specific classes focus on the problem of interpolating both two-dimensional and three-dimensional curves from input control points.
 
 The classes also include the methods to calculate the derivative of the individual curves, arc-length, bounding box, simplification of the curves, and much more. The B-Spline interpolation class contains a function to optimize control points using the least squares method.
 
